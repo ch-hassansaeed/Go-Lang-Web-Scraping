@@ -21,3 +21,10 @@ func main() {
 	c.Visit("http://go-colly.org/")
 }
 ```
+
+
+or you can use index.go program which will visit on your desire link and grab and print all found links
+using command 
+```
+go run index.go
+```
