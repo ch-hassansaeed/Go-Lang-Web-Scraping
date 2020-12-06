@@ -3,7 +3,7 @@ using Colly lib we can write any kind of crawler/scraper/spider program
  
 Colly can easily extract structured data from any websites, which can be used for a wide range of applications, like data mining, data processing or archiving bots and automated systems.
 
-###Basic Scraping Program 
+##Basic Scraping Program 
 
 ```
 func main() {
